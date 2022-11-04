@@ -107,3 +107,5 @@ button:focus-visible {
 .name {
   text-align: center;
 }
+
+.album {cursor: pointer;}
