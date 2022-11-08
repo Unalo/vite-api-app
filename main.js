@@ -1,4 +1,4 @@
-import './css/style.css';
+import './cscs/style.css';
 import './css/simple-grid.css';
 import 'materialize-css'
 import 'materialize-css/dist/css/materialize.css'
